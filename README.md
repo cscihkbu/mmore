@@ -21,7 +21,7 @@ python mmore_dx.py
 ```
 
 ## Data Format and Organization
-We follow the same input data organization used by GRAM. Please refer to the section `STEP 4: How to prepare your own dataset` of the GRAM [repository](https://github.com/mp2893/gram) for more details.
+We follow the same input data organization used by GRAM. Please refer to the section `STEP 4: How to prepare your own dataset` of [the GRAM repository](https://github.com/mp2893/gram) for more details.
 
 
 ## Citation
